@@ -1,0 +1,3 @@
+git log 
+git restore 
+git log --oneline --pretty
