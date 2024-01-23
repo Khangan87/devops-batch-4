@@ -6,3 +6,4 @@ git clone
 git remote -v
 git status
 git commit
+rm-f
